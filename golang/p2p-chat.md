@@ -12,7 +12,7 @@ The goal is _not_ to create a full-fledged messaging application but to create a
 
 - As basic and simple as possible
 - Peer discovery with mDNS OR DHT
-- Whole application needs to be done with Go.
+- Whole application needs to be done with Go
 - Send messages containing:
     - `timestamp`
     - `username`
