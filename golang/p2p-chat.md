@@ -25,7 +25,6 @@ The goal is _not_ to create a full-fledged messaging application but to create a
 - No encryption
 - Interoperable with the other implementation
     - The two implementations need to be able to communicate (send and receive messages) with one another
-    - This refers to Muhammads implementation
 - Able to run multiple instances of the application on the same host
 - Evaluator must be able to build and run the application from source code
     - Make it as simple as possible to build and run the application
